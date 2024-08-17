@@ -19,7 +19,7 @@ This is a simple web-based calculator application.
 - JavaScript
 
 ## Live Demo
-[Calculator](https://irphan1305.github.io/calculator/)
+[Calculator](https://bidishachatterjee2024.github.io/Digital-Calculator/)
 
 ## License
 This project is licensed under the MIT License.
